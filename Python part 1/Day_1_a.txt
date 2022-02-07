@@ -1,0 +1,3 @@
+Installed python 3
+Installed anaconda
+Installed jupyter notebook
